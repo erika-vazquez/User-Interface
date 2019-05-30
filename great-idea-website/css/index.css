@@ -64,3 +64,88 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+main{
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+
+header nav,  img .logo{
+	display: inline-block;
+	padding-bottom: 65px;
+}
+header nav{
+	padding-top: 40px;
+	vertical-align: top;
+}
+header .logo{
+	padding-top: 30px;
+	padding-left: 10px;
+}
+header nav a{
+	padding-right: 90px;
+	color: gray;
+	text-decoration: none;
+}
+
+
+h1{
+	font-size: 80px;
+	vertical-align: top;
+}
+.box2{
+text-align: center;
+width: 45%;
+margin-left: 75px;
+font-size: 100px;
+}
+
+.fhh{
+border: 2px solid black;
+width: 30%;
+padding-top: 5px;
+padding-bottom: 5px;
+vertical-align: top;
+}
+.box3{
+		width: 40%;
+	padding-left:100px;	
+}
+.box2, .box3{
+	display: inline-block;
+	padding-bottom: 20px;
+}
+
+
+
+ 
+
+.boxF, .boxA{
+	width:49%;
+	display: inline-block;
+	padding-bottom: 40px;
+	padding-top: 20px;
+}
+.middle-img{
+padding-left:100px;
+
+}
+
+.boxS, .boxP, .boxV{
+	width: 33%;
+	display: inline-block;
+	padding-bottom: 30px;
+	padding-top: 30px;
+}
+.footBox{
+	width:20%;
+	padding-bottom: 20px;
+	padding-top: 30px;
+}
+.copyR{
+	text-align: center;
+	padding-bottom: 60px;
+}
+
+
+/* Hello */
